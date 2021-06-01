@@ -1,0 +1,55 @@
+.slide{
+    padding: 0% 10vw;
+    width: 80vw;
+}
+
+.one{
+    background-color: #000;
+}
+.one h1{
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 80px;
+    margin-top: 30vh;
+}
+
+.one p{
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 5vh;
+    width: 50vw;
+    margin-left: 15vw;
+    
+}
+
+.onetext{
+    /* position: -webkit-sticky;
+    position: sticky;
+    top: 0px; */
+}
+
+.two{
+    background-color: #000;
+}
+
+.two h1{
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    text-transform: uppercase;
+    width: 50vw;
+    font-size: 80px;
+    margin-top: 10vh;
+}
+.two p{
+    font-family: 'Zen Dots', cursive;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 5vh;
+    width: 50vw;
+    line-height: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
